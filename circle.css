@@ -1,3 +1,10 @@
-.circle {
+body {
+    background-color: red;
+}
+
+#circle {
     width: 500px;
+}
+#arrow {
+
 }
