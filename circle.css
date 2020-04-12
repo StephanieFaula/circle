@@ -1,10 +1,26 @@
-body {
-    background-color: red;
+/*GENERAL*/
+
+#image{
+    position: relative;
 }
 
+
+h1 {
+    text-align: center;
+    margin: 4rem auto;
+}
+
+/*IMAGES*/
 #circle {
     width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 #arrow {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
 
 }
